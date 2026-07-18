@@ -1,0 +1,3 @@
+[submodule "no-sweat-lib"]
+	path = no-sweat-lib
+	url = git@github.com:AdrienLambiet/no-sweat-lib
